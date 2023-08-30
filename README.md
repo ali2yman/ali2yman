@@ -1,34 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Reset some default styles */
+        body, h1, h2, h3, p, ul, li {
+            margin: 0;
+            padding: 0;
+        }
 
-<h1 align="center">Hi, I'm Ali Ayman 👋</h1>
-<p align="center">
-    <a href="https://twitter.com/ali_2yman"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/ali-2ymann"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/3li_2ymann"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p>
-  
-  <img src="https://github.com/ali2yman/blob/master/profile-img.png" align="right" width="25%"/>
+        body {
+            font-family: Arial, sans-serif;
+        }
 
-🤖 AI Developer | Machine Learning Enthusiast | Problem Solver 🚀
+        header, nav, main, footer {
+            padding: 20px;
+        }
 
-Passionate about the endless possibilities that AI and machine learning bring to the table, I thrive on crafting intelligent solutions to complex challenges. With a solid background in computer science and a love for cutting-edge technologies, I'm dedicated to pushing the boundaries of what AI can achieve.
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+        }
 
-🔬 Technical Expertise:
+        nav ul {
+            list-style-type: none;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 10px;
+        }
 
-Advanced proficiency in machine learning algorithms and frameworks.
-Deep understanding of natural language processing for creating conversational AI.
-Expertise in neural networks, deep learning, and model optimization.
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
 
-💼 Professional Highlights:
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+        }
 
-Contributed to the development of AI-powered applications that have transformed industries.
-Collaborated with cross-functional teams to drive innovation and enhance user experiences.
-Strong ability to translate business requirements into technical solutions.
-🌱 Continuous Learner:
-I believe in staying updated with the rapidly evolving AI landscape. I am committed to lifelong learning and staying ahead by exploring emerging technologies, attending conferences, and participating in hackathons.
+        .intro, .projects {
+            margin-bottom: 40px;
+        }
 
-🤝 Let's Connect:
-I'm excited to connect with fellow AI enthusiasts, professionals, and innovators. Let's share ideas, discuss opportunities, and together, shape the future through AI.
+        .projects h2 {
+            margin-bottom: 20px;
+        }
 
-Feel free to connect with me and let's explore the endless horizons of artificial intelligence!
+        footer {
+            text-align: center;
+            background-color: #f5f5f5;
+            padding: 10px 0;
+        }
 
-#AI #MachineLearning #DeepLearning #NLP #ArtificialIntelligence #Innovation
+        /* Add additional styles as needed */
+    </style>
+    <title>Your GitHub Repository</title>
+</head>
+<body>
+    <header>
+        <h1>Your GitHub Repository</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="intro">
+            <h2>Welcome to My GitHub Repository</h2>
+            <p>Explore my projects, contributions, and more!</p>
+        </section>
+        <section class="projects">
+            <h2>Highlighted Projects</h2>
+            <!-- Your project cards or list can go here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
