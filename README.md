@@ -5,7 +5,7 @@
     <a href="https://www.instagram.com/3li_2ymann"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="[hcoder-3462295-2895977.jpg](https://github.com/ali2yman/ali2yman/blob/658f591816f50ca85f4b387b77d8985b8cae64b2/coder-3462295-2895977.jpg)" align="right" width="25%"/>
+  <img src="hcoder-3462295-2895977.jpg(https://github.com/ali2yman/ali2yman/blob/658f591816f50ca85f4b387b77d8985b8cae64b2/coder-3462295-2895977.jpg)" align="right" width="25%"/>
 
 <h1>🤖 AI Developer | Machine Learning Enthusiast | Problem Solver 🚀</h1>
 
