@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/3li_2ymann"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/ali2yman/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/ali2yman/blob/master/profile-img.png" align="right" width="25%"/>
 
 🤖 AI Developer | Machine Learning Enthusiast | Problem Solver 🚀
 
@@ -17,6 +17,7 @@ Passionate about the endless possibilities that AI and machine learning bring to
 Advanced proficiency in machine learning algorithms and frameworks.
 Deep understanding of natural language processing for creating conversational AI.
 Expertise in neural networks, deep learning, and model optimization.
+
 💼 Professional Highlights:
 
 Contributed to the development of AI-powered applications that have transformed industries.
