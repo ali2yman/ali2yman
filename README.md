@@ -5,7 +5,7 @@
     <a href="https://www.instagram.com/3li_2ymann"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/ali2yman/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="hcoder-3462295-2895977.jpg" align="right" width="25%"/>
 
 <h1>🤖 AI Developer | Machine Learning Enthusiast | Problem Solver 🚀</h1>
 
