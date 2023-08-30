@@ -24,7 +24,10 @@ Expertise in neural networks, deep learning, and model optimization.
 Contributed to the development of AI-powered applications that have transformed industries.
 Collaborated with cross-functional teams to drive innovation and enhance user experiences.
 Strong ability to translate business requirements into technical solutions.
-🌱 Continuous Learner:
+
+
+<h3>🌱 Continuous Learner:</h3>
+
 I believe in staying updated with the rapidly evolving AI landscape. I am committed to lifelong learning and staying ahead by exploring emerging technologies, attending conferences, and participating in hackathons.
 
 
