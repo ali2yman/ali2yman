@@ -37,7 +37,6 @@ I believe in staying updated with the rapidly evolving AI landscape. I am commit
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali2yman&show_icons=true&locale=en" alt="ali2yman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali2yman&" alt="ali2yman" /></p>
 
 
 <h3>🤝 Let's Connect:</h3>
