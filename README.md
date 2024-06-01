@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Ali Ayman 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali2yman&label=Profile%20views&color=0e75b6&style=flat" alt="ali2yman" /> </p>
 <p align="center">
     <a href="https://twitter.com/ali_2yman"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ali-2ymann"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
