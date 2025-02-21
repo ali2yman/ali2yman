@@ -32,16 +32,22 @@ Strong ability to translate business requirements into technical solutions.
 I believe in staying updated with the rapidly evolving AI landscape. I am committed to lifelong learning and staying ahead by exploring emerging technologies, attending conferences, and participating in hackathons.
 
 
+---
 
+### 📊 GitHub Stats
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali2yman&show_icons=true&locale=en&layout=compact" alt="ali2yman" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali2yman&show_icons=true&locale=en&layout=compact" alt="ali2yman" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali2yman&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali2yman&show_icons=true&locale=en" alt="ali2yman" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ali2yman&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-
+---
 
 
 <h3>🤝 Let's Connect:</h3>
