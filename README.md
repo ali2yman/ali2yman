@@ -36,7 +36,7 @@ I believe in staying updated with the rapidly evolving AI landscape. I am commit
 
 ### 📊 GitHub Stats
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali2yman&show_icons=true&locale=en&layout=compact" alt="ali2yman" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali2yman&" alt="ali2yman" />
 </p>
 
 <p align="center">
